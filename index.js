@@ -64,8 +64,6 @@ function returnMax(a,b,c){
    return a
 }
 
-
 // EJERCICIO 3 Con el radio de un circulo hallar su area
-
 // EJERCICIO 4 Determinar si un numero es primo
 
